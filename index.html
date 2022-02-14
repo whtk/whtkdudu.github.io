@@ -163,6 +163,73 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://whtk.github.io/2022/02/14/hexo%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%E7%BB%91%E5%AE%9A%E8%87%AA%E5%B7%B1%E5%9F%9F%E5%90%8D%E6%97%B6%E7%9A%84%E9%97%AE%E9%A2%98/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/whtk/imageRep/%E8%99%8E.jpg">
+      <meta itemprop="name" content="whtk">
+      <meta itemprop="description" content="一剑飘飘，一生笑傲">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="一剑飘飘">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2022/02/14/hexo%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%E7%BB%91%E5%AE%9A%E8%87%AA%E5%B7%B1%E5%9F%9F%E5%90%8D%E6%97%B6%E7%9A%84%E9%97%AE%E9%A2%98/" class="post-title-link" itemprop="url">hexo主题样式绑定自己域名时的问题</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2022-02-14 15:36:00 / 修改时间：15:51:20" itemprop="dateCreated datePublished" datetime="2022-02-14T15:36:00+08:00">2022-02-14</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>当没绑定到域名之前 我在github上的pages访问地址是<a href="http://whtk.github.io/whtkdudu">http://whtk.github.io/whtkdudu</a><br>样式是没有问题的<br>但是当我在github pages绑定了我这个<a target="_blank" rel="noopener" href="http://www.whtkdudu.com这个域名就不行了/">www.whtkdudu.com这个域名就不行了</a><br>样式都没了</p>
+<p>那出的问题在哪里呢 我打开public里的生成index.html看了看，分两种情况<br>1、当_config.yml里设置成url: <a href="https://whtk.github.io/whtkdudu%E7%9A%84%E6%97%B6%E5%80%99">https://whtk.github.io/whtkdudu的时候</a><br>index.html引用的css变成了  </p>
+<p> href&#x3D;”&#x2F;whtkdudu&#x2F;lib&#x2F;font-awesome&#x2F;css&#x2F;all.min.css” </p>
+<p> 2、当_config.yml里设置成url: <a href="https://whtk.github.io/%E7%9A%84%E6%97%B6%E5%80%99">https://whtk.github.io/的时候</a><br>index.html引用的css变成了 </p>
+<p> href&#x3D;”lib&#x2F;font-awesome&#x2F;css&#x2F;all.min.css” </p>
+<p> 没有绑定<a target="_blank" rel="noopener" href="http://www.whtkdudu.com域名的时候,用第一种情况,绑定域名的时候用第二种情况./">www.whtkdudu.com域名的时候，用第一种情况，绑定域名的时候用第二种情况。</a></p>
+<p> 用第二中情况完美解决。</p>
+<p> 看了很多博客说把设置设置成<br> url: <a href="https://whtk.github.io/whtkdudu">https://whtk.github.io/whtkdudu</a><br> root: &#x2F;whtkdudu&#x2F;</p>
+<p> 反正我设置了没有任何作用。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://whtk.github.io/2022/02/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -379,7 +446,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-count">3</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -392,7 +459,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
