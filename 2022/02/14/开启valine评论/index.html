@@ -29,7 +29,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://img-blog.csdnimg.cn/img_convert/2ab65e0e2df51fa1b95fbe31c9abc410.png#pic_center">
 <meta property="article:published_time" content="2022-02-14T12:14:00.000Z">
-<meta property="article:modified_time" content="2022-02-14T12:52:59.244Z">
+<meta property="article:modified_time" content="2022-02-14T13:46:01.567Z">
 <meta property="article:author" content="whtk">
 <meta property="article:tag" content="hexo">
 <meta name="twitter:card" content="summary">
@@ -192,7 +192,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2022-02-14 20:14:00 / 修改时间：20:52:59" itemprop="dateCreated datePublished" datetime="2022-02-14T20:14:00+08:00">2022-02-14</time>
+              <time title="创建时间：2022-02-14 20:14:00 / 修改时间：21:46:01" itemprop="dateCreated datePublished" datetime="2022-02-14T20:14:00+08:00">2022-02-14</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -205,6 +205,13 @@
             </span>
 
           
+            <span id="/2022/02/14/%E5%BC%80%E5%90%AFvaline%E8%AF%84%E8%AE%BA/" class="post-meta-item leancloud_visitors" data-flag-title="开启valine评论" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
   
   <span class="post-meta-item">
     
@@ -231,10 +238,8 @@
       
         <p>开启Valine还是很方便的，用的leancloud国际版，建了两个class 一个是Comment 一个是Counter，所有人都访问就可以</p>
 <p>next主题配置</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">valine:</span><br><span class="line">  enable: true</span><br><span class="line">  appid: 自己的appid # Your leancloud application appid</span><br><span class="line">  appkey: 自己的appkey # Your leancloud application appkey</span><br><span class="line">  notify: false # Mail notifier</span><br><span class="line">  verify: false # Verification code</span><br><span class="line">  placeholder: 聊点啥把 # Comment box placeholder</span><br><span class="line">  avatar: mm # Gravatar style</span><br><span class="line">  guest_info: nick,mail,link # Custom comment header</span><br><span class="line">  pageSize: 10 # Pagination size</span><br><span class="line">  language: # Language, available values: en, zh-cn</span><br><span class="line">  visitor: false # Article reading statistic</span><br><span class="line">  comment_count: true # If false, comment count will only be displayed in post page, not in home page</span><br><span class="line">  recordIP: false # Whether to record the commenter IP</span><br><span class="line">  serverURLs: https://xxxxxxxx.api.lncldglobal.com # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)</span><br><span class="line">  #post_meta_order: 0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">valine:</span><br><span class="line">  enable: true</span><br><span class="line">  appid: 自己的appid # Your leancloud application appid</span><br><span class="line">  appkey: 自己的appkey # Your leancloud application appkey</span><br><span class="line">  notify: false # Mail notifier</span><br><span class="line">  verify: false # Verification code</span><br><span class="line">  placeholder: 聊点啥把 # Comment box placeholder</span><br><span class="line">  avatar: mm # Gravatar style</span><br><span class="line">  guest_info: nick,mail,link # Custom comment header</span><br><span class="line">  pageSize: 10 # Pagination size</span><br><span class="line">  language: # Language, available values: en, zh-cn</span><br><span class="line">  visitor: true # Article reading statistic</span><br><span class="line">  comment_count: true # If false, comment count will only be displayed in post page, not in home page</span><br><span class="line">  recordIP: false # Whether to record the commenter IP</span><br><span class="line">  serverURLs: https://xxxxxxxx.api.lncldglobal.com # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)</span><br><span class="line">  #post_meta_order: 0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <p>serverURLs: <a target="_blank" rel="noopener" href="https://xxxxxxxx.api.lncldglobal.com/">https://xxxxxxxx.api.lncldglobal.com</a> 这里记得要改成你的存储链接，默认的leancloud国际版域名已经过期了 所以这里要改成 你自己的文件服务器的访问地址。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">leancloud_visitors:</span><br><span class="line">  enable: true</span><br><span class="line">  app_id: 自己的appid # &lt;your app id&gt;</span><br><span class="line">  app_key: 自己的appkey # &lt;your app key&gt;</span><br><span class="line">  # Required for apps from CN region</span><br><span class="line">  server_url: https://xxxxxxxx.api.lncldglobal.com # &lt;your server url&gt;</span><br><span class="line">  # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security</span><br><span class="line">  # If you don&#x27;t care about security in leancloud counter and just want to use it directly</span><br><span class="line">  # (without hexo-leancloud-counter-security plugin), set `security` to `false`.</span><br><span class="line">  security: true</span><br></pre></td></tr></table></figure>
-<p>server_url: <a target="_blank" rel="noopener" href="https://xxxxxxxx.api.lncldglobal.com/">https://xxxxxxxx.api.lncldglobal.com</a> 这里也别忘了改成自己的api地址</p>
 <span id="more"></span>
 <p>最后别忘了开启评论</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">comments:</span><br><span class="line">  # Available values: tabs | buttons</span><br><span class="line">  style: tabs</span><br><span class="line">  # Choose a comment system to be displayed by default.</span><br><span class="line">  # Available values: changyan | disqus | disqusjs | gitalk | livere | valine | waline</span><br><span class="line">  active: valine</span><br><span class="line">  # Setting `true` means remembering the comment system selected by the visitor.</span><br><span class="line">  storage: true</span><br><span class="line">  # Lazyload all comment systems.</span><br><span class="line">  lazyload: false</span><br><span class="line">  # Modify texts or order for any navs, here are some examples.</span><br><span class="line">  nav:</span><br><span class="line">    #disqus:</span><br><span class="line">    #  text: Load Disqus</span><br><span class="line">    #  order: -1</span><br><span class="line">    #gitalk:</span><br><span class="line">    #  order: -2</span><br></pre></td></tr></table></figure>
@@ -507,7 +512,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       avatar     : 'mm',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : false,
+      visitor    : true,
       lang       : '' || 'zh-cn',
       path       : location.pathname,
       recordIP   : false,
