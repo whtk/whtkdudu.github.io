@@ -168,6 +168,115 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://whtk.github.io/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/whtk/imageRep/%E8%99%8E.jpg">
+      <meta itemprop="name" content="whtk">
+      <meta itemprop="description" content="一剑飘飘，一生笑傲">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="一剑飘飘">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/" class="post-title-link" itemprop="url">hexo如何加上广告</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2022-02-15 13:37:00 / 修改时间：14:03:05" itemprop="dateCreated datePublished" datetime="2022-02-15T13:37:00+08:00">2022-02-15</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%BB%BA%E7%AB%99/" itemprop="url" rel="index"><span itemprop="name">建站</span></a>
+                </span>
+            </span>
+
+          
+            <span id="/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/" class="post-meta-item leancloud_visitors" data-flag-title="hexo如何加上广告" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div>
+      
+    </div>
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>各位看官 发现我这个博客，广告是不是特别多。。。我想测试一下hexo加广告的方法，和效果。。。。等过两天我会慢慢去掉些忒烦人的广告。。。<br>hexo加广告还是很好加的<br>当然 我是申请不下来google的广告，页面都上不去，找了个别的广告联盟以 cpm为主。<br>做个广告 用我这个链接注册把！！，我会有提成，谢谢看官<br><a target="_blank" rel="noopener" href="https://propellerads.com/publishers/?ref_id=mNyG">一个广告联盟，没有门槛不过要100刀才能提估计</a><br>加广告 现在基本上分这么几种，大家最烦哪种？<br>第一 就是个链接我帖子上面这四个就是链接。。。大家有兴趣去点点。。<br>第二 就是弹出广告，分两种一种是直接弹出新的页面，一种是弹出大的窗体覆盖掉真正的内容。这两种点x就可以关掉。倒是不难，就是蹦的太频繁，弄得这个博客有点像不健康网站。。。。。回头我去掉一种<br>第三 就是大家看到右上角的浮动的banner这个还是很好的。不太占地方。也可以关掉。不过据说这个给钱不好。。不如弹窗。我测试下。。<br>ok 言归正传，做好了站点就想弄点广告，这个完全违背了初衷，但是不违背人性。<br>还有今天是虎年的正月15，这真是祝大家晚年快乐了。记得吃元宵或者汤圆啊。</p>
+<p>首先在themes&#x2F;next&#x2F;layout&#x2F;_macro&#x2F;里加一个swig文件，比如xx.swig</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">#这里放任何的上面的广告代码，如果是script脚本就直接放里面，如果是网址那么自己加上a</span><br><span class="line">#例如</span><br><span class="line">&lt;script&gt;这里放所有的弹窗 banner脚本 &lt;/script&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870598&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt; &lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870695&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://nessainy.net/4/4870597&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的 如果觉得文章不错就点一点&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://propellerads.com/publishers/?ref_id=mNyG&quot;&gt;点击这个加入广告联盟，一起赚钱 谢谢各位看官&lt;/a&gt;</span><br></pre></td></tr></table></figure>
+<p>这就是我上面放的链接广告和加盟邀请。。大家记得点一点。。。</p>
+<p>这里出现一个问题。广告联盟上的防屏蔽的js脚本，hexo g的时候总报错，我现在放的都是非屏蔽的脚本，如果哪位大虾有解决办法，评论下面请留言，万分感谢。</p>
+<p>有了这个_macro&#x2F;xx.swig以后在同一目录下的post.swig里找到下面的POST BODY位置<br>其实在哪里加就行，我加到了上面。大家可以看到文章最顶上的4个广告链接，右上的banner当然看不见的还有两种弹窗（一会就看见了，，，很烦人，我都觉得烦人，过几天一定去掉一个。。）</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;#################&#125;</span><br><span class="line">&#123;### POST BODY ###&#125;</span><br><span class="line">&#123;#################&#125;</span><br><span class="line">&lt;div&gt;</span><br><span class="line">  &#123;% if not is_index %&#125;</span><br><span class="line">	&#123;% include &#x27;xx.swig&#x27; %&#125;</span><br><span class="line">  &#123;% endif %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<p>最后在themes&#x2F;next目录里的_config.yml里最后加上</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xx:</span><br><span class="line">  enabled: true</span><br></pre></td></tr></table></figure>
+
+<p>然后hexo clean<br> g d  然后就开始烦人的广告网站建设。。。。。。以后内容多了一定去掉点。。大家将就看<br>还是那句，如果文章好，点点上面的链接。邀请链接可以点<br><a target="_blank" rel="noopener" href="https://propellerads.com/publishers/?ref_id=mNyG">邀请你试试，前提你要有一个站和域名</a><br>欢迎大家评论，我是初学者。请指教</p>
+
+      
+    </div>
+
+    
+    
+    
+
+
+
+<div>
+  
+
+</div>
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://whtk.github.io/2022/02/14/%E5%BC%80%E5%90%AFvaline%E8%AF%84%E8%AE%BA/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -663,7 +772,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">4</span>
+          <span class="site-state-item-count">5</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>

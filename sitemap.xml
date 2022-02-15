@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://whtk.github.io/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/</loc>
+    
+    <lastmod>2022-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://whtk.github.io/2022/02/14/%E5%BC%80%E5%90%AFvaline%E8%AF%84%E8%AE%BA/</loc>
     
     <lastmod>2022-02-14</lastmod>
