@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://whtk.github.io/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>https://whtk.github.io/tags/hexo/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://whtk.github.io/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://whtk.github.io/tags/%E5%BF%83%E6%83%85/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +107,14 @@
   
   <url>
     <loc>https://whtk.github.io/categories/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://whtk.github.io/categories/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
