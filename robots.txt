@@ -9,5 +9,5 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 
-Sitemap: https://www.whtkdudu.com/sitemap.xml
-Sitemap: https://www.whtkdudu.com/baidusitemap.xml
+Sitemap: https://www.whtkdudu.tech/sitemap.xml
+Sitemap: https://www.whtkdudu.tech/baidusitemap.xml
