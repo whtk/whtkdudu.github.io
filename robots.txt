@@ -1,13 +1,15 @@
 
 User-agent: *
 Allow: /
-Allow: /home/
+Allow: /2022/
 Allow: /archives/
+Allow: /categories/
+Allow: /css/
+Allow: /js/
 Allow: /tags/
-
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
+Allow: /lib/
+Allow: /about/
+Allow: /image/
 
 Sitemap: https://www.whtkdudu.tech/sitemap.xml
 Sitemap: https://www.whtkdudu.tech/baidusitemap.xml

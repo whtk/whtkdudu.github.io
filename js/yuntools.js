@@ -1,0 +1,1 @@
+function get_rand_num(t){return Math.floor(Math.random()*t)}function get_gh_path(t,n,r,_){return t+"/"+n+r+_}function get_jsd_url(t,n,r,_){return"https://cdn.jsdelivr.net/gh/"+get_gh_path(t,n,r,_)}function get_rand_jsd_pic(t,n,r,_,e){return get_jsd_url(t,n,r,get_rand_num(_)+e)}
