@@ -4,23 +4,251 @@
   
     
     <entry>
-      <title>Chinese cuisine at the Beijing Winter Olympics (4)-Malatang</title>
-      <link href="/2022/02/18/Chinese-cuisine-at-the-Beijing-Winter-Olympics-4-Malatang/"/>
-      <url>/2022/02/18/Chinese-cuisine-at-the-Beijing-Winter-Olympics-4-Malatang/</url>
+      <title>大白话java(1)</title>
+      <link href="/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/"/>
+      <url>/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284135367&page=73&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><p>Malatang, also known as Spicy Hot Pot.</p><p>Malatang originated in niuhua Town, Leshan City, Sichuan Province. It was the boatman and the tracker who first created the spicy hot, a simple and unique way to eat. Congcheng</p><p>They all go to the Chuanjiang River Basin of the Three Gorges. Due to the rapid flow of water, trackers have become an indispensable landscape. In addition to pulling fibers, they set up stones and pots by the river,</p><p>Pick up some branches as dry firewood to make a fire, and scoop up a few scoops of river water. Everything is based on local materials. If there are vegetables, put them in. If there are no vegetables, pull out some wild vegetables to top up, and then put them in sea pepper, prickly ash, etc</p><span id="more"></span><p>Seasoning, rinsed and eaten, can not only satisfy the stomach, but also expel cold and dampness. This kind of eating method quickly spread along the river because of its simplicity. Later, the small on the dock<br>Seeing the business opportunities, the peddler transformed the dishes and stoves, placed them at both ends of the burden, shouted as he walked, and the people selling labor by the river and Bridge surrounded him</p><p>The burden became a regular visitor. Now, Malatang is also gradually walking from the river to the shore.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/malatang1.jpg" width="630" height=25%></div><p>Northeast people have improved and reshaped Sichuan Malatang. Sichuan Malatang is characterized by heavy Ma and spicy, which is difficult to be accepted by people outside Sichuan and Chongqing</p><p>The improved spicy hot soup made by northerners, big bone soup bottom and softer seasoning, the original spicy heavy taste is changed from soup bottom to optional small ingredients, and the red oil soup is no longer available</p><p>It is an essential element, but an option. Instead, it is the sesame paste with great northern characteristics. The production method has also changed from rinsing and scalding to cooking with a large pot of bone soup</p><p>In the form of divided dishes, add spices according to everyone’s taste needs. The improved spicy scalding fire has spread all over China, and has also made many Northeast spicy scalding companies</p><p>Lock brand. On the basis of northeast Malatang in Fushun, Liaoning Province, the soup is subtracted to derive Fushun Malatang.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/malatang3.jpg" width="630" height=25%></div><p>The above pictures are spicy and hot. The name is spicy, spicy and hot. It is worthy of the name. The entrance is spicy and fragrant. It is very delicious.</p><p>Some friends have come to China to eat hot pot, especially Chongqing hot pot. What is the difference between Chongqing hot pot and Malatang?</p><p>In fact, there is not much difference between the two, but Chongqing hot pot is suitable for a group of friends to eat together, which is more formal, while Malatang is suitable for fast food, so some people describe it</p><p>Malatang is a person’s hot pot, hot pot is a group of people’s Malatang! You can eat spicy hot every day, but you can’t eat hot pot every day.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/malatang4.jpg" width="630" height=25%></div><p>As a common spicy hot pot in the street, put a large pot on the stove,Sometimes the ingredients are strung together with bamboo sticks, and put all kinds of stringed chicken offal, beef offal, small intestine, large intestine, various fish balls, meatballs</p><p>Powder pills, dried tofu, etc; Add boiling old soup into the pot, and then you can apply all kinds of spices at will. They are spicy and spicy. They taste spicy, spicy and hot</p><p>Rich and cheap.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/malatang5.jpg" width="630" height=25%></div><p>We should know why the Beijing Winter Olympics is spicy hot rather than hot pot. If we celebrate together, we can eat hot pot</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284132160&page=65&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>一直想写篇文章，说说java这点事。今天先来第一集<br>慢慢写。<br>话说古代有个木匠。手艺非常好，有独家秘术。可以做非常好的木工。有一天朝廷工部说我这里有项目。算你一个。你来给我做。木匠说好啊。<br>后来朝廷又有项目，需要木匠，查了查底，发现上次做项目的木匠不错，那还用他。<br>做完第二个项目以后，朝廷说，这样吧，你注册到我这里来，有了项目算你一份。木匠很高兴，说终于有了个稳定工作。<br>于是不停的做项目。<br>突然有一个项目，需要木匠，而上面那个木匠病倒了，朝廷一下抓瞎了，赶快悬赏找第二个木匠。这个项目做的很痛苦，以前和第一个木匠合作习惯了，需要什么材料，需要什么沟通，都很顺畅，结果第二个木匠做法和第一个木匠不太一样，造成进度和工程材料上的浪费。<br>那这个项目完成之后，工部做总结：有两点<br>1、不能指望一个工匠<br>2、必须给项目中木工的部分制定一个流程，或者说是规范。</p><p>先解决第二点，那么要求木匠做木工项目按照一定规则来。比如什么时候报材料，什么时候报进度，什么时候做什么事情，来保证工程进度。把这个规范公布于众。只要我工部的项目，你木匠必须遵守。（是不是有点像jdbc驱动。。。）</p><p>对于第二个问题，很简单，国内那么多木匠，只要遵守我上面的要求就可以。</p><p>好的 好多木匠在朝廷注册，朝廷很满意。</p><p>但是还是有问题。<br>有些木匠，做的东西好，有些木匠做的东西不好，朝廷也有办法，说我们分个级把，评一评，做的好的，算top top等级，做的差些的算top，实在是不行的算normal把，看我们朝廷多么人性化。有项目先选top top 不行选top，再不行选normal。<br>朝廷这么做造成的结果有几个：<br>第一，normal的越来越接不到活，那么就想这行不好干，我还是找个其他的活把，比如漆工。<br>这样好多漆匠就出现了，同样，朝廷为了管理，制定了一套漆工的规范。漆工注册到朝廷里找工作。<br>第二，toptop的人数毕竟有限，万一死了咋办。<br>第三，那些top top 或者top的木匠，利润丰厚，同样的椅子凭什么他们做的好，必然有其独到之处。这造成的结果也有几个：<br>1、这些木工工匠手艺，被分成了几个流派，被后人学习。<br>2、他们想延续自己这份工作的福利，那么必须要有传承。<br>这就产生几个结果，为了传承自己工艺，那我传给我自己的孩子，那么好了我的孩子继承了我的手艺，在我满足工部规范的情况下，我的孩子不仅能提供我这样的工艺水平，还有可能有创新，当然也有可能拉后腿，为了保险儿子转给儿子，他为孩子指定了本流派的流程，提出了本流派必须实现的过程。<br>可是光自己的孩子也不保险，没有私心的木匠，广收门徒，按照本流派的方式传授自己本流派的工匠方法，。只要你按我这个流程，就是本流派的木匠。</p><p>那这样全国的木匠，重新划分，除了必须遵守工部指定的规则以外，还可以选择各种工艺流派。<br><strong>当然前提是天下所有的木工流派，都是木工流派，类似的天下其他工种流派</strong>。<br>工部说我重新造册，不用木匠 某某某的方式了  具体到流派1 某某某，某某某，流派2，某某某。</p><p>哪方面方便。我做蓝图，做规划的时候，不必具体到谁谁谁了，如果不需要指定流派的我就写个木工流派就可以，不需要特指哪个，需要某个具体流派就写上具体流派。<br>蓝图做好以后，实施的时候再去找人，反正这么蓝图上写的用什么流派，再去这个流派找人就行。<br>好了 工部的人省事了，我要做木工，做计划定流派，找具体人。至于最后做的不合格，那我就抓你。顶个流派的名号干不好事。</p><p>时代在发展，社会在进步。那些原来转成漆匠的也出现了很多流派。当然他们肯定也要遵守工部的规范。这时候工部出现了个问题。<br>工部做蓝图的时候发现，某个项目又需要木匠，又需要漆匠，原来的做法是定个木匠流派，定个漆匠流派。具体实施的时候再找具体。后来这样的项目越来越多，工部很不爽。这每次都需要找俩人，工钱都是双份的。不好不好。亏了。<br>工部就发个公告，号召流派融合，实现交叉学科。比如你木匠的儿子娶了漆匠的媳妇，生下来一个孩子，又要实现木工的流派，又要实现漆工的流派。那这就是混合型人才（当然这种情况java是不允许的，why？）。<br>那好我没儿子，你没女儿，咋办，那咋们这俩流派联合培养把。看看哪个徒弟资质好，咋们联合培养。好了解决。<br>工部继续造册，说除了原来的 木工流派1 某某某 某某某 ，漆工流派1 某某某之外，又有细分<br>说木工流派+漆工流派 某某某。<br>这样天生的2流派具有优势的。不指定具体流派的时候，他一个人干两种工艺。可能钱给的多一点但是比找两个人干两个活要好。<br>优点是，可以干木工也可以干漆工，也可以都干。<br>缺点是指定了两个具体流派组合的话，他可能不会干（太泛化了）。<br><strong>还要再重复一遍，前提是天下所有的木工流派，都是木工流派，天下所有的漆工流派都是漆工流派（虽然是废话但是有用。。）</strong><br>于是，大家开始联姻生孩子。。。。不对，，联合培养。（今天完）  </p><p>以上。。。。和java有关系？</p>]]></content>
       
       
       <categories>
           
-          <category> 美食 </category>
+          <category> java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Chinese cuisine </tag>
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国足球应该请个日本教练</title>
+      <link href="/2022/02/22/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%BA%94%E8%AF%A5%E8%AF%B7%E4%B8%AA%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83/"/>
+      <url>/2022/02/22/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%BA%94%E8%AF%A5%E8%AF%B7%E4%B8%AA%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284089795&page=1&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><p>这篇文章是我2008年发的。。距今以后14年，如果按照我的方案，想必也不会太差，现在看来有些不妥之处，但是初衷是好的。爱之深责之切，<br>想当年球场上人山深海，再看现在。哎，风扫落叶之势。这固然有社会问题。但我们也不应该失去希望，跌到谷底，不破不立。</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/zuqiu.jpg" width=630 height=25%></div><span id="more"></span><h2>以下是原文</h2><p>足球应该请个日本教练 (2008-08-18 11:13:20)<br>标签： 评赛观赛 体育    分类： 随想<br>回想当年女排的东洋魔女，中国人请了个日本教头，扭转了局面。中国足球没救了吗？不，有救。现在足球有什么问题？第一，功利主义，足球不是换个领导，喊喊口号就可以提高水平，冲上亚洲二流水平的（现在中国最多也就二三流水平之间），急功近利，没戏。第二，给教练充足的时间，古人用人用人不疑，疑人不用，看看中国，好不容易请来个教练，最起码比中国的教练贵的多，到关键时候就不用了。最讨厌的是以国奥的名义，让他来搞国家队。霍顿就是个老例子，不过他是国家队给弄到国奥去了。好像请人家的钱不能白花，一定要身兼两职一样。第三，没有看中国的身体情况。我算看出来了，原来嚷的挺欢的学巴西，学德国，都是扯淡。巴西，德国身体中国队行吗？。</p><p>所以我说不论男足女足，请个日本教练最合适。（前提是给时间，要是一年，那就免了，还是我当教练吧，我踢PS实况足球也不得了呢）</p><p>第一，日本教练便宜。</p><p>第二，最起码日本队员和中国队员身体素质差不多，不过可能中国的比人家的要胖。</p><p>第三，本文头一句也许是个重点，外来的和尚会念经，人家没准是取过真经的。</p><p>第四，国际环境好，现在流行请外国教练来对付外国队。</p><p>还有，足协精简一下，要不弄个民间组织得了，别耗费国家资源和纳税人的钱。日本教练便宜，可以集资一下，民间组织有一样好处，就是挨骂的少，人民群众哪里有自己骂自己的呀。</p><p>说句实话，现在哪个官员想来足协，上之下派而已。</p><p>请哪一级别的日本教练呢？</p><p>成人及的？来了让他指教国家呢还是国奥，难道又两者兼而有之。我晕。</p><p>青年的？我看成。</p><p>也许这样更好，先请个十年的青年队日本教练，再请5年的成人日本教练。我看中国20年后中国亚州杯冠军成亦。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 足球 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 足球 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（1）抓包实验</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%881%EF%BC%89%E6%8A%93%E5%8C%85%E5%AE%9E%E9%AA%8C/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%881%EF%BC%89%E6%8A%93%E5%8C%85%E5%AE%9E%E9%AA%8C/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284135659&page=74&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>   抓包实验的主要目的主要是为了让大家查看tcp&#x2F;ip协议栈的主要组成部分。<br>从下到上分别获得mac层信息，ip层信息，icmp信息，http信息等。<br>相关内容，可以查看资料这里放上视频。<br>    抓包主要工具是Wireshark，64位链接下载<br>   请同学看完后，按照视频重做一遍。如果找不到相应的帧，自行百度Wireshark<br>过滤mac和过滤ip方法。</p><div style=" position: relative; width: 100%; height: 0;"><a href="https://www.bilibili.com/video/BV12341177fB?share_source=copy_web">网络实验（1）抓包实验bilibili视频</a></div><br><br><br>  <p>实验报告上传   </p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（6）思科模拟软件-静态路由</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%886%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%886%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284144206&page=77&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>    <p>路由是路由器的一大功能，它收到一个ip包后，解析出里面的源ip地址和<br>目的ip地址。用目的ip去自己的数据库中查找，如果发现有转发路径，就原封不动的将ip转发到下一个路由器去。  </p><p>但是我们想，如果一开始这个转发数据库什么信息都没有，也没有设置动态路由，路由器我们可以想想中是一个傻机器，<br>他什么也不知道。那么它就需要管理员也就是我们告诉它收到发到哪里的ip包，将这个ip包转发给哪个下一跳路由器。</p><p>这就是静态路由。<br>也就是告诉路由器这个傻子转发路径。  </p><p>当然如果目的ip过多，机器过多，路径过多，我们对每台机器设置静态路由是不现实的，这样才会有rip ospf等<br>动态路由协议出来。<br>动态路由协议rip，ospf可以自己找pkt实现。我需要让大家理解路由作用。  </p><div style=" position: relative; width: 100%; height: 0;" ><a href="https://www.bilibili.com/video/BV1iL4y1G7A1?share_source=copy_web">网络实验（6）思科模拟软件-静态路由 实验bilibili视频</a></div><br><br><br>  <p>实验报告上传</p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（5）思科模拟软件-vlan设置</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284129366&page=52&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>vlan是比较重要的交换机配置，是介于ip层和mac层之间的技术，他可以使一个ip网络里的设备分割成多个<br>逻辑区域，避免了交换机广播范围，方便管理，提供信息安全隔离。<br>vlan在课本中有介绍，我们看看他的基本实现方法。</p><p>由于多交换机跨vlan单播传输涉及到三层路由，视频里较少，但是能实现的加分。。。。</p><div style=" position: relative; width: 100%; height: 0;" ><a href="https://www.bilibili.com/video/BV18F411E7MT?share_source=copy_web">网络实验（5）思科模拟软件-vlan设置 实验bilibili视频</a></div><br><br><br>  <p>实验报告上传</p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（4）思科模拟软件-ftp模拟（没声音）</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%884%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-ftp%E6%A8%A1%E6%8B%9F%EF%BC%88%E6%B2%A1%E5%A3%B0%E9%9F%B3%EF%BC%89/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%884%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-ftp%E6%A8%A1%E6%8B%9F%EF%BC%88%E6%B2%A1%E5%A3%B0%E9%9F%B3%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284120577&page=30&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>   这个没什么说的，用模拟器模拟了ftp协议的执行过程，由于原先录制的原因，没有声音。所以没兴趣的不需要看<br>但是我需要你们用模拟器模拟一个ftp 或者email协议，或者dns，查看他们的交互过程。网上有许多资料，可<br>以参考。理解下网络协议是如何运行的。</p><div style=" position: relative; width: 100%; height: 0;" ><a href="https://www.bilibili.com/video/BV14S4y1F7ZR?share_source=copy_web">网络实验（3）思科模拟软件-基础知识 实验bilibili视频</a></div><br><br><br>  <p>实验报告上传</p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（3）思科模拟软件-基础知识</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%883%EF%BC%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%883%EF%BC%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284129525&page=47&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>思科，原来的网络设备的老大，它设备后台会有ioc系统，支持一些命令，来操作路由器或者交换机设备，<br>是命令行形式的。现在华云或者其他的网络设备也支持类似的后端系统。<br>初学者会有疑问说，我们买的路由器，交换机都会有类似网页的操作环境。鼠标点点就可以进行配置。那还需要学习<br>ioc命令吗。<br>1、ioc命令面向人群是不一样的。我们要知道网页后面他为我们执行了什么命令<br>2、ioc命令可以复制粘贴，比如许多机器的配置，实际上就是一个txt文档，只需要改变里面的ip或者其他信息。<br>直接复制粘贴在后端的ioc命令行上，就可以执行。这个速度要比每个机器去点网页要快的多。</p><p>这节课的主要目的是熟悉ioc基础知识。相关命令可以看视频。不懂的自己百度。。。</p><div style=" position: relative; width: 100%; height: 0;" ><a href="https://www.bilibili.com/video/BV1NL4y1g7HB?share_source=copy_web">网络实验（3）思科模拟软件-基础知识 实验bilibili视频</a></div><br><br><br>  <p>实验报告上传</p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验（2）思科模拟软件-熟悉环境（ip，arp）</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=286780793&page=49&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>接下来，我们用思科模拟软件做实验，我们分两次熟悉下软件的基本功能，和基本的ioc操作。<br>希望大家能用软件进行简单的协议模拟比如ip和arp，查看协议信息。</p><div style=" position: relative; width: 100%; height: 0;" ><a href="https://www.bilibili.com/video/BV1wR4y1j79R?share_source=copy_web">网络实验（2）模拟软件-熟悉环境（ip arp）实验bilibili视频</a></div><br><br><br>  <p>实验报告上传</p><div  id="csswhtk"><div><label  id="labelwhtk">学号</label>  <input id="xuehao" type="text" name="xuehao"/> </br> <label  id="labelwhtk2">姓名</label>  <input id="xingming" type="text" name="xingming"/> </br> <label  id="labelwhtk3">班级</label>  <select  id="banji"  name="banji" list='banjilist'/><datalist id='banjilist'></datalist> </br>  </div><label  id="inputwhtk">请选择文件</label> <span  className = "myupload"    id = "myupload">       <em> 添加文件 </em>    <input id="fileupload" type="file" name="file1" style="display:none"/> </input></span> <input type="button" value="上传" onclick="upload()"/> </input> </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络实验目录和实验软件下载</title>
+      <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%9B%AE%E5%BD%95/"/>
+      <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%9B%AE%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284129112&page=51&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2>网络实验相关目录: </h2>  <div ><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%881%EF%BC%89%E6%8A%93%E5%8C%85%E5%AE%9E%E9%AA%8C/">网络实验（1）抓包实验</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/">网络实验（2）网络模拟器熟悉环境（ip, arp)</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%883%EF%BC%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">网络实验（3）网络模拟器-基础知识</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%884%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-ftp%E6%A8%A1%E6%8B%9F%EF%BC%88%E6%B2%A1%E5%A3%B0%E9%9F%B3%EF%BC%89/">网络实验（4）网络模拟器-ftp模拟（没声音）</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/">网络实验（5）思科模拟软件-vlan设置</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%886%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1/">网络实验（6）思科模拟软件-静态路由</a></div><h2>软件下载</h2><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/zV83wqmD63AGeUlbQDjYTWTwnTdCnugC/Wireshark3.2.2.zip">1、64位抓包软甲Wireshark3.2.2.zip</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/3xWGnoTn0UG5w8r6D549gTGhEOH8s1lX/PacketTracer70_32bit_setup.exe">2、思科网络模拟软件</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/c5RdzhXQ2xPiTEQnV5HmlLEsS8PkW7og/pkt.rar">3、实验用pkt包</a><br>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程 </category>
+          
+          <category> 实验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 实验 </tag>
             
         </tags>
       
@@ -33,7 +261,7 @@
       <link href="/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/"/>
       <url>/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=28905770&bvid=BV1ys411M7pk&cid=50121178&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>上次说了6点，其中我做了做记录，比较了下第六点<br>我用vercel自动发布部署的情况下，不用腾讯的cdn比用腾讯的cdn还要快，我觉得vercel自己也部署了些节点。<br>不管国内还是国外我测试都很快。原来lookup dns  ，fIBT需要600ms ，现在最多200ms，不是秒开，但是能忍受<br>。如果不是特别在意的，也就可以了，如果在意的话可以试试自己寻找cloudflare的快速节点。回头有时间再折腾，<br>还有我发现用了jsdelivr加速和不用，在vercel上区别不是很明显，用不用可以自己测试下f12</p><span id="more"></span><p>还是别直接用github发布了，最起码对中国国内不好。<br>注意：你需要把代码放到一个github的仓库里，而不是仅仅将public文件夹放进去。这需要你有一点git的知识。<br>其中注意如果你用git init 去在你项目文件夹里进行初始化之前，把themes里响应主题里的.git文件夹删掉，<br>避免出现git库嵌套麻烦。<br>剩下的就简单了<br>git add .<br>git commit “add first”</p><p>git branch -M main<br>git remote add origin <a href="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#x6f;&#109;">&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#x63;&#x6f;&#109;</a>:xxxxxxxxx.git</p><p>等一会就ok了</p><p>从什么时候github默认是main了。。不是master了。<br>以后写完文章 直接把文章.md推送到github库里，等一下，让vercel编译完 ，就可以看到更新的网页文章了、</p><p>最后有几个好的 测试网站的平台<br>#1、Pingdom<br>这个测试我的主要是三个问题，<br>###1、说我没用gzip压缩。。<br>我不知道怎么改。。。。为啥啊 ，gzip难道vercel没做？不应该啊 github发布的时候也是这个问题。奇怪。<br>###2、说我资源过期标记没标记。<br>###3、说我请求太多，能合并的要合并。<br>###4、说我lookups dns 时间稍长 这个是个黄色的，不是太严重。我现在打开自己的已经很满意了，so，回头再说<br>#2、webpagetest<br>其实这个网站也就是把我们的f12内容截图了下，具体的可以试试。</p><p>好了 我要git add  commit push了。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=28905770&bvid=BV1ys411M7pk&cid=50121178&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>上次说了6点，其中我做了做记录，比较了下第六点<br>我用vercel自动发布部署的情况下，不用腾讯的cdn比用腾讯的cdn还要快，我觉得vercel自己也部署了些节点。<br>不管国内还是国外我测试都很快。原来lookup dns  ，fIBT需要600ms ，现在最多200ms，不是秒开，但是能忍受<br>。如果不是特别在意的，也就可以了，如果在意的话可以试试自己寻找cloudflare的快速节点。回头有时间再折腾，<br>还有我发现用了jsdelivr加速和不用，在vercel上区别不是很明显，用不用可以自己测试下f12</p><span id="more"></span><p>还是别直接用github发布了，最起码对中国国内不好。<br>注意：你需要把代码放到一个github的仓库里，而不是仅仅将public文件夹放进去。这需要你有一点git的知识。<br>其中注意如果你用git init 去在你项目文件夹里进行初始化之前，把themes里响应主题里的.git文件夹删掉，<br>避免出现git库嵌套麻烦。<br>剩下的就简单了<br>git add .<br>git commit “add first”</p><p>git branch -M main<br>git remote add origin <a href="mailto:&#x67;&#105;&#116;&#x40;&#103;&#x69;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#105;&#116;&#x40;&#103;&#x69;&#116;&#104;&#x75;&#x62;&#x2e;&#x63;&#x6f;&#x6d;</a>:xxxxxxxxx.git</p><p>等一会就ok了</p><p>从什么时候github默认是main了。。不是master了。<br>以后写完文章 直接把文章.md推送到github库里，等一下，让vercel编译完 ，就可以看到更新的网页文章了、</p><p>最后有几个好的 测试网站的平台<br>#1、Pingdom<br>这个测试我的主要是三个问题，<br>###1、说我没用gzip压缩。。<br>我不知道怎么改。。。。为啥啊 ，gzip难道vercel没做？不应该啊 github发布的时候也是这个问题。奇怪。<br>###2、说我资源过期标记没标记。<br>###3、说我请求太多，能合并的要合并。<br>###4、说我lookups dns 时间稍长 这个是个黄色的，不是太严重。我现在打开自己的已经很满意了，so，回头再说<br>#2、webpagetest<br>其实这个网站也就是把我们的f12内容截图了下，具体的可以试试。</p><p>好了 我要git add  commit push了。</p>]]></content>
       
       
       <categories>
@@ -79,86 +307,11 @@
     
     
     <entry>
-      <title>Chinese cuisine at the Beijing Winter Olympics (3)-Chinese Dumpling</title>
-      <link href="/2022/02/16/Chinese-cuisine-at-the-Beijing-Winter-Olympics-3-Chinese-Dumpling/"/>
-      <url>/2022/02/16/Chinese-cuisine-at-the-Beijing-Winter-Olympics-3-Chinese-Dumpling/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284133913&page=72&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><p>Wow, Julia Marino, an American athlete who won the runner up of women’s slope obstacle skills in snowboarding in the Beijing Winter Olympics, talked about her life in the Olympic Village and her favorite food. The contestant said that her favorite food was dumplings. After coming, she ate about 200.<br>200!! Even if you catch up with the Chinese new year, you eat a lot!!!<br>Today, let’s talk about dumplings!</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi1.webp" width=630 height=25%></div><span id="more"></span><p>Dumplings evolved from wonton. In its long development process, there are many names, such as “prison pill”, “flat food”, “dumpling bait”, “powder corner” and so on. It was called “crescent wonton” in the Three Kingdoms period, “wonton” in the northern and Southern Dynasties, dumplings “Yanyue shaped wonton” in the Tang Dynasty, “Jiaozi” in the Song Dynasty, and “flat food” in the yuan and Ming Dynasties; In the Qing Dynasty, it was called “Jiaozi”. Jiaozi originated in the Eastern Han Dynasty and was first created by Zhang Zhongjing, a native of Dengzhou, Henan Province, in the Eastern Han Dynasty. At that time, dumplings were used for medicine. Zhang Zhongjing wrapped some cold dispelling herbs in his noodle skin to treat diseases (mutton, pepper, etc.) and avoid frostbite on the patient’s ears.</p><p>The Three Kingdoms period in the late Han Dynasty</p><p>During the late Han and Three Kingdoms periods, dumplings have become a kind of food, known as “crescent wonton”. This kind of food is mentioned in the book Guangya written by Wei Zhangyi. According to the records of Guangya written by Zhang Yi of Wei Dynasty during the Three Kingdoms period, there were food shaped like crescent moon and called “wonton”, which was basically similar to the shape of dumplings.</p><p>Northern and Southern Dynasties</p><p>In the northern and Southern Dynasties, wonton was “shaped like the Yan Moon, and the world could eat”. It is speculated that after the dumplings were cooked, they were not taken out to eat alone, but mixed with the soup in a bowl. Therefore, people called the dumplings “wonton” at that time. This eating method is still popular in some parts of China. For example, when eating dumplings in Shaanxi, you should put some small ingredients such as coriander, scallion, shrimp skin and leek in the soup.</p><p>Tang dynasty</p><p>By about the Tang Dynasty, dumplings had become almost the same as today’s dumplings, and they were taken out and eaten alone on a plate. Also known as “Yanyue shaped wonton”.</p><p>Song dynasty</p><p>The Song Dynasty called Jiaozi “jiao’er”, which is the etymology of the word “Jiaozi” in later generations. Song Mengyuan’s old “Tokyo dreamland” recalled the prosperity of Bianjing in the Northern Song Dynasty. Volume II mentioned that there were “crystal corner” and “fried corner” in the market. In addition, there were “Hump corner”. Song Sishui Qianfu carefully compiled Volume 6 of the old stories of Wulin. It is mentioned that there are “Shiluo corners” and “various corners” in Lin’an’s market. This kind of writing can still be seen in the later yuan, Ming, Qing and the Republic of China. In the Southern Song Dynasty, it was called “dry meat double lower horn”.</p><p>Dumplings were introduced into Mongolia in the Song Dynasty. Dumplings spread to Mongolia. The pronunciation of dumplings in Mongolian is similar to “plaque food”. With the expedition of the Mongolian Empire, the plaque food also spread all over the world. There are many varieties of Russian dumplings, Kazakh dumplings, Korean dumplings and so on.</p><p>the Ming dynasty</p><p>According to documents, the custom of eating dumplings during the Spring Festival has appeared in the Ming Dynasty at the latest. According to the records of drinking in the Ming Dynasty, the court of the Ming Dynasty started from the 15th day of the first month… Drinking Baijiao wine and drinking water snacks (i.e. dumplings). Or secretly pack one or two silver coins, and those who get it will pray for the good luck of one year. They will also worship and wish each other on that day, which is called “Celebrating the new year.”</p><p>the Qing dynasty</p><p>In the Qing Dynasty, dumplings were usually wrapped before midnight on New Year’s Eve and eaten until midnight. At this time, it is the beginning of the first day of the first lunar month. Eating dumplings means “Jiaozi at the age of more years”. “Zi” is “Zishi”, which is homonymous with “Jiaozi”, meaning “happy reunion” and “good luck”. According to the relevant historical records of the Qing Dynasty, “on New Year’s day, the rich food left together, such as eating flat food. It is named jiaozi, which takes the meaning of giving birth to a son at a later age.” He added: “on the first day of each year, no matter rich or poor, they make dumplings with white flour, which is called boiled pastry. It is the same in the whole country. The rich and noble family secretly hides the pastry with gold and silver, so as to predict the success. If their family can eat, they will be lucky all the year round.” This shows that every family, rich or poor, should eat dumplings during the Spring Festival, implying auspiciousness to bid farewell to the old and welcome the new. In the Qing barnyard bills compiled by Xu Ke, a recent person, said: “there is stuffing in the, or powder corner - it can be steamed or fried. It is boiled in water and has soup, which is called dumplings.” “If it is in the first month, it will be broken five from the first day to the fifth day, and it is the old practice to eat water dumplings for five days.”</p><p>Dumpling is a kind of Chinese folk food with a long history. Eating dumplings is also a unique folk tradition of Chinese people during the Spring Festival. Because of the meaning of “having a son at a younger age”, it is deeply welcomed by the people. During the Spring Festival, dumplings have become an indispensable delicacy. In the folk customs of many Han areas, eating “dumplings” on New Year’s Eve is an important feast that can not be replaced by any delicacies. “Jiaozi”, also known as “Jiaozi” or “jiao’er”, means the alternation of the old and the new. It is also a feast food that must be eaten according to the meaning of God. Otherwise, God will remove your name from the yin-yang world and become an unlisted ghost after death. It shows that our ancestors paid attention to it. Anyway, in order to get rid of the bad luck of the year, you should also have a “dumpling” on New Year’s Eve. People from afar will travel back to their hometown and eat dumplings with their families for the winter festival to show a perfect destination.<br>Therefore, during the Olympic Games, the athletes who come to China eat dumplings, which is also the joy of the Chinese New Year.</p><p>Dumplings are usually made with cold water and flour as agents. Mix the flour and water together and knead them into large rough dough. Cover them with dry wet gauze or towel and place them for about an hour. Cut them with a knife or pick them into several small dough by hand, and then knead them into round strips with a diameter of about 3 cm. Cut them with a knife or pick them by hand into small dough, Use a small rolling pin to roll these small flour preparations into a slightly thicker dumpling skin in the middle and thinner around, wrap the filling heart, pinch it into a crescent shape or angle shape, boil the cold water first, wrap it, then put it into the pot, and draw a circular arc counterclockwise or clockwise along the pot with a leaky spoon or soup spoon (with the convex side facing upward) to prevent the dumplings from sticking, Cook until the dumplings float to the surface (if it is meat filling, add a little cold water when boiling and then cook it again two or three times). Dumpling skin can also be made of hot noodles, pastry noodles or rice flour; Stuffing can be meat or vegetable, sweet or salty; The mature method can also be steamed, baked, fried, fried, etc. the meat fillings include three delicacies, shrimp, crab roe, sea cucumber, fish, chicken, pork, beef, mutton, etc. the plain fillings are divided into mixed plain fillings and ordinary plain fillings. Dumplings are characterized by thin skin, tender filling, delicious taste, unique shape and endless appetite. The raw materials for making dumplings have a complete variety of nutrients, and the cooking method ensures less loss of nutrients, which is in line with the connotation of Chinese color, flavor and diet culture.</p><p>Make the noodles into pieces</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi2.jpg" width=630 height=25%></div>Then put the filling on<div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi3.jpg" width=630 height=25%></div>General dumpling wrapping method:<div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi4.jpg" width=630 height=25%></div>Boil underwater for a while, and the steaming dumplings come out of the pot.<div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi5.jpg" width=630 height=25%></div>The whole family makes dumplings together, symbolizing reunion.<div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi6.webp" width=630 height=25%></div><p>The shape of dumplings is generally crescent shaped, but there are other shapes [Sixi steamed dumplings], [fish shaped dumplings], [Yuanbao dumplings] and so on.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi6.jpg" width=630 height=25%></div>The above methods are dumplings, steamed dumplings and so on.<p>There are several important varieties of dumplings. Shaomai, chaos and fried buns (should this belong to steamed buns) are very delicious,</p><p>Put some pictures：</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi8.jpg" width=630 height=25%></div><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/jiaozi7.jpg" width=630 height=25%></div><p>Finally, don’t forget to stick vinegar. If you can eat spicy, put some pepper..<br>Welcome to China to taste delicious food. When you listen to some countries say they are everything, remember that China made them。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 美食 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Chinese cuisine </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Chinese cuisine at the Beijing Winter Olympics (2)- Chinese Steamed stuffed  bun</title>
-      <link href="/2022/02/16/Chinese-cuisine-at-the-Beijing-Winter-Olympics-2-Chinese-Steamed-stuffed-bun/"/>
-      <url>/2022/02/16/Chinese-cuisine-at-the-Beijing-Winter-Olympics-2-Chinese-Steamed-stuffed-bun/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284130463&page=56&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi1.png"   width=630 height=25%></div><p>At the Beijing Olympic Games, the scene of a little sister in Malta eating steamed stuffed buns exploded. I think he ate bean paste buns. Anyway, Chinese steamed stuffed buns have a long history.</p><span id="more"></span><p>According to the introduction in Baidu Encyclopedia<br>Steamed stuffed bun, originally known as steamed bread and also known as cage cake, was invented by Zhuge Liang. It is a staple food with a strong sense of satiety. It is a traditional Chinese food and an indispensable food in people’s life.<br>According to legend, after Zhuge Liang captured Meng Huo in seven moves, the army couldn’t cross the river when he went to Lushui, so he cut the beef and mutton into meat sauce and mixed it into meat stuffing, wrapped it with flour and made it into a human head. After sacrifice, the army crossed smoothly. This kind of sacrifice was called “manshou”, also known as “Mantou”, which was later called “steamed bread”.  </p><p>zhuge kongming</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/zhugeliang.jpg" width=630 height=25%></div><p>The word “steamed stuffed bun” first appeared in the Song Dynasty. Before that, it was mainly called “steamed bread”. It is said that it was invented by Zhuge Liang when he conquered Meng Huo. Its shape is human head. Later, with the development and evolution of history, it was gradually changed to bird meat stuffing. However, the history of Chinese eating steamed bread can be traced back to the Warring States period, which was called “steamed bread” at that time. During the Three Kingdoms period, steamed bread had its own official name, which was called “Man Tou”. Lang Ying of the Ming Dynasty wrote in the seven revision manuscript: “the original name of steamed bread is Man Tou. Meng Huo, the conqueror of Zhuge, ordered bread meat as the head and sacrifice, which is called” Man Tou “. Now it is falsely called steamed bread.” After the emergence of the name of “steamed stuffed bun” in the Song Dynasty, the name of “steamed bread” has not declined. Until the Qing Dynasty, the appellations of “steamed stuffed bun” and “steamed bread” gradually differentiated. While Wuyu district and other places still retain the ancient name, calling those with stuffing “steamed bread”, such as “fried steamed bread”, “crab flour steamed bread” and so on.</p><p>Steamed stuffed buns are made of noodles and stuffing. They are made of meat stuffing or vegetarian stuffing. The prepared steamed stuffed buns have thin skin and many fillings, which are soft and delicious. You can also make all kinds of patterns. Charmingly naive, animal, plant, flower, all kinds of patterns for people to taste.</p><p>To sum up, the difference between steamed bread and steamed stuffed bun is whether there is stuffing….Steamed bread is like this</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi2.jpg" width=630 height=25%></div><p>The steamed stuffed bun is like this  </p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi3.jpg" width=630 height=25%></div>  In the above picture, the pleated fillings are mostly meat or vegetable fillings<p>Bean paste bag is like this.  </p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi4.jpg" width=630 height=25%></div><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi5.jpg" width=630 height=25%></div>  Bean paste bag used to be popular in Beijing and Tianjin, but now it is available all over China.This is Xinjiang roast steamed stuffed bun<div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi7.jpeg" width=630 height=25%></div>  Of course, there are many kinds of fillings<p>There are all kinds of good-looking steamed stuffed buns  </p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi8.jpg" width=630 height=25%></div><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi9.jpg" width=630 height=25%></div><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi10.jpg" width=630 height=25%></div><p>Does it look delicious. ha-ha</p><p>Like steamed stuffed buns, they are dumplings and Shaomai. For example, the following figure: we won’t introduce them today. Why don’t we talk about them in the next issue</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/baozi11.jpg" width=630 height=25%></div>Welcome to China to taste delicious food.Don't believe that what some countries say is theirs. They created the world and China created them]]></content>
-      
-      
-      <categories>
-          
-          <category> 美食 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Chinese cuisine </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Chinese cuisine at the Beijing Winter Olympics (1) - Beijing roast duck</title>
-      <link href="/2022/02/15/Chinese-cuisine-at-the-Beijing-Winter-Olympics-1-Beijing-roast-duck/"/>
-      <url>/2022/02/15/Chinese-cuisine-at-the-Beijing-Winter-Olympics-1-Beijing-roast-duck/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284131573&page=58&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><p>The Beijing Winter Olympics is coming to an end. Let’s take stock of the Chinese food in the Olympic Village, which is envious of the South Koreans who only know to eat pickles.</p><p>The first is Beijing roast duck</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya2.png" width=630 height=25%></div>  <p>“Beijing roast duck” has a long history. As early as the northern and Southern Dynasties, the “roast duck” has been recorded in the diet annals, and the “burn duck” is recorded in the “drinking and eating” written by the Yuan Dynasty imperial doctor Hu Sihui.<br>Burn duck is “roast duck”, which is the earliest kind of roast duck. After Emperor Zhu Yuanzhang of the Yuan Dynasty established his capital in Yingtian (Nanjing), the imperial chef of the Ming palace made dishes with Nanjing plump and fleshy Lake ducks. In order to add flavor to duck meat, roast duck meat with charcoal fire to make it crisp and fragrant. In the late Qing Dynasty, Guangzhou dog roast duck was praised for being fat but not greasy, and was named “roast duck” by the royal family.</p><span id="more"></span><p>At the beginning of the 15th century, the Ming Dynasty moved its capital to Beijing, and the roast duck technique was introduced into Beijing from Nanjing and further developed. Beijing roast duck appeared like this. Liu Ruoyu, a eunuch during the Wanli period of the Ming Dynasty, wrote in the book “history of the Ming Palace · good diet”, that local people roast geese, chickens and ducks. Explain that roast duck had become a famous dish with Beijing flavor at that time. In his early years, he operated Roast Duck restaurants in Beijing, such as change square, Quanjude, Liuhe square and Zhenyuan restaurant.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya1.png" width=630 height=25%></div>  <p>“Beijing roast duck” has hanging oven, stewing oven and cross grilling. Hanging oven baking and stewing oven baking are the most common. The difference between hanging oven baking and stewing oven baking is that the former generally uses solid wood such as jujube, peach and apricot as fuel, while the latter closes the oven door and bakes with dark fire. The two effects are the same. Roast duck is made of Beijing stuffed duck, about 4kg. After 60-70 days of forced feeding, it can weigh up to 3kg. It is characterized by fat body, thin skin and large chest. It is especially suitable for barbecue. Beijing roast duck was originally raised in Yuquan mountain and shuisha river. There is no ice in winter. It drinks mineral water and eats mineral water, fish, shrimp and aquatic plants.  </p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya3.png" width=630 height=25%></div> "Beijing roast duck" has a variety of ways to eat. It's best to put it in lotus leaf cake or sesame cake. It is also equipped with appropriate condiments, such as scallion, sweet batter, mashed garlic and so on. According to personal preferences. For people who like sweet taste, they can eat it with white sugar or with Cucumber Strips and radish strips according to different seasons, which can clear the mouth and alleviate the greasy feeling. Duck bone slices are added with cabbage or white gourd to make soup. It tastes very special. The roast duck is cut into 0.6cm wide and 4.5cm long duck pieces with bones, and then poured with rich flavor juice. It can also be used as a cold dish.    <div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya4.png" width=630 height=25%></div> <p>When the chef makes small pieces and starts eating, remember to have a trick: eat a piece of duck skin first, stick sugar on it, and don’t stick anything else. Crisp and fragrant, full of satisfaction.</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya5.png" width=630 height=25%></div> <p>The roast duck weighs about 1 &#x2F; 3 less than the raw duck. It is purplish red, shiny, crispy and tender. Generally speaking, the finished product weighs about 4kg and is made into willow leaves with leaves. 108 pieces are considered qualified. When the product is hot, it is placed on the guest’s plate.</p><p>The normal way to eat is to roll up pancakes。</p><div align=center><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/whtk/imageRep/kaoya6.png" width=630 height=25%></div> <p>Welcome to Beijing. Welcome to Beijing roast duck. It’s a little expensive now. There are some good places<br>Quanjude, jieyifang roast duck restaurant, Dadong Roast Duck restaurant, Siji Minfu roast duck restaurant, Siji Minfu roast duck restaurant, Liqun roast duck restaurant, etc. The taste is slightly different. They are all very delicious.</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 美食 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Chinese cuisine </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>hexo如何加上广告</title>
       <link href="/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/"/>
       <url>/2022/02/15/hexo%E5%A6%82%E4%BD%95%E5%8A%A0%E4%B8%8A%E5%B9%BF%E5%91%8A/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是next 本站现在主题是butterfly，方式不同。请注意（2022&#x2F;2&#x2F;20更新）</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=549930153&bvid=BV19i4y1d7RY&cid=463482352&page=1&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><div> xxxx</div><p>各位看官 发现我这个博客，广告是不是特别多。。。我想测试一下hexo加广告的方法，和效果。。。。等过两天我会慢慢去掉些忒烦人的广告。。。<br>hexo加广告还是很好加的<br>当然 我是申请不下来google的广告，页面都上不去，找了个别的广告联盟以 cpm为主。<br>做个广告 用我这个链接注册把！！，我会有提成，谢谢看官<br><a href="https://propellerads.com/publishers/?ref_id=mNyG">一个广告联盟，没有门槛不过要100刀才能提估计</a></p><span id="more"></span><p>加广告 现在基本上分这么几种，大家最烦哪种？<br>第一 就是个链接我帖子上面这四个就是链接。。。大家有兴趣去点点。。<br>第二 就是弹出广告，分两种一种是直接弹出新的页面，一种是弹出大的窗体覆盖掉真正的内容。这两种点x就可以关掉。倒是不难，就是蹦的太频繁，弄得这个博客有点像不健康网站。。。。。回头我去掉一种<br>第三 就是大家看到右上角的浮动的banner这个还是很好的。不太占地方。也可以关掉。不过据说这个给钱不好。。不如弹窗。我测试下。。<br>ok 言归正传，做好了站点就想弄点广告，这个完全违背了初衷，但是不违背人性。<br>还有今天是虎年的正月15，这真是祝大家晚年快乐了。记得吃元宵或者汤圆啊。</p><p>首先在themes&#x2F;next&#x2F;layout&#x2F;_macro&#x2F;里加一个swig文件，比如xx.swig</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">#这里放任何的上面的广告代码，如果是script脚本就直接放里面，如果是网址那么自己加上a</span><br><span class="line">#例如</span><br><span class="line">&lt;script&gt;这里放所有的弹窗 banner脚本 &lt;/script&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870598&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt; &lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870695&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://nessainy.net/4/4870597&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的 如果觉得文章不错就点一点&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://propellerads.com/publishers/?ref_id=mNyG&quot;&gt;点击这个加入广告联盟，一起赚钱 谢谢各位看官&lt;/a&gt;</span><br></pre></td></tr></table></figure><p>这就是我上面放的链接广告和加盟邀请。。大家记得点一点。。。</p><p>这里出现一个问题。广告联盟上的防屏蔽的js脚本，hexo g的时候总报错，我现在放的都是非屏蔽的脚本，如果哪位大虾有解决办法，评论下面请留言，万分感谢。</p><p>有了这个_macro&#x2F;xx.swig以后在同一目录下的post.swig里找到下面的POST BODY位置<br>其实在哪里加就行，我加到了上面。大家可以看到文章最顶上的4个广告链接，右上的banner当然看不见的还有两种弹窗（一会就看见了，，，很烦人，我都觉得烦人，过几天一定去掉一个。。）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;#################&#125;</span><br><span class="line">&#123;### POST BODY ###&#125;</span><br><span class="line">&#123;#################&#125;</span><br><span class="line">&lt;div&gt;</span><br><span class="line">  &#123;% if not is_index %&#125;</span><br><span class="line">&#123;% include &#x27;xx.swig&#x27; %&#125;</span><br><span class="line">  &#123;% endif %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>最后在themes&#x2F;next目录里的_config.yml里最后加上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xx:</span><br><span class="line">  enabled: true</span><br></pre></td></tr></table></figure><p>然后hexo clean<br> g d  然后就开始烦人的广告网站建设。。。。。。以后内容多了一定去掉点。。大家将就看<br>还是那句，如果文章好，点点上面的链接。邀请链接可以点<br><a href="https://propellerads.com/publishers/?ref_id=mNyG">邀请你试试，前提你要有一个站和域名</a><br>欢迎大家评论，我是初学者。请指教</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是next 本站现在主题是butterfly，方式不同。请注意（2022&#x2F;2&#x2F;20更新）</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=549930153&bvid=BV19i4y1d7RY&cid=463482352&page=1&high_quality=1&danmaku=0"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"   sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></div><p>各位看官 发现我这个博客，广告是不是特别多。。。我想测试一下hexo加广告的方法，和效果。。。。等过两天我会慢慢去掉些忒烦人的广告。。。<br>hexo加广告还是很好加的<br>当然 我是申请不下来google的广告，页面都上不去，找了个别的广告联盟以 cpm为主。<br>做个广告 用我这个链接注册把！！，我会有提成，谢谢看官<br><a href="https://propellerads.com/publishers/?ref_id=mNyG">一个广告联盟，没有门槛不过要100刀才能提估计</a></p><span id="more"></span><p>加广告 现在基本上分这么几种，大家最烦哪种？<br>第一 就是个链接我帖子上面这四个就是链接。。。大家有兴趣去点点。。<br>第二 就是弹出广告，分两种一种是直接弹出新的页面，一种是弹出大的窗体覆盖掉真正的内容。这两种点x就可以关掉。倒是不难，就是蹦的太频繁，弄得这个博客有点像不健康网站。。。。。回头我去掉一种<br>第三 就是大家看到右上角的浮动的banner这个还是很好的。不太占地方。也可以关掉。不过据说这个给钱不好。。不如弹窗。我测试下。。<br>ok 言归正传，做好了站点就想弄点广告，这个完全违背了初衷，但是不违背人性。<br>还有今天是虎年的正月15，这真是祝大家晚年快乐了。记得吃元宵或者汤圆啊。</p><p>首先在themes&#x2F;next&#x2F;layout&#x2F;_macro&#x2F;里加一个swig文件，比如xx.swig</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">#这里放任何的上面的广告代码，如果是script脚本就直接放里面，如果是网址那么自己加上a</span><br><span class="line">#例如</span><br><span class="line">&lt;script&gt;这里放所有的弹窗 banner脚本 &lt;/script&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870598&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt; &lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://cdrvrs.com/4/4870695&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://nessainy.net/4/4870597&quot;&gt;很明显这是广告，虽然我也不知道他是卖什么的 如果觉得文章不错就点一点&lt;/a&gt;&lt;br&gt;</span><br><span class="line">&lt;a href=&quot;https://propellerads.com/publishers/?ref_id=mNyG&quot;&gt;点击这个加入广告联盟，一起赚钱 谢谢各位看官&lt;/a&gt;</span><br></pre></td></tr></table></figure><p>这就是我上面放的链接广告和加盟邀请。。大家记得点一点。。。</p><p>这里出现一个问题。广告联盟上的防屏蔽的js脚本，hexo g的时候总报错，我现在放的都是非屏蔽的脚本，如果哪位大虾有解决办法，评论下面请留言，万分感谢。</p><p>有了这个_macro&#x2F;xx.swig以后在同一目录下的post.swig里找到下面的POST BODY位置<br>其实在哪里加就行，我加到了上面。大家可以看到文章最顶上的4个广告链接，右上的banner当然看不见的还有两种弹窗（一会就看见了，，，很烦人，我都觉得烦人，过几天一定去掉一个。。）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;#################&#125;</span><br><span class="line">&#123;### POST BODY ###&#125;</span><br><span class="line">&#123;#################&#125;</span><br><span class="line">&lt;div&gt;</span><br><span class="line">  &#123;% if not is_index %&#125;</span><br><span class="line">&#123;% include &#x27;xx.swig&#x27; %&#125;</span><br><span class="line">  &#123;% endif %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>最后在themes&#x2F;next目录里的_config.yml里最后加上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">xx:</span><br><span class="line">  enabled: true</span><br></pre></td></tr></table></figure><p>然后hexo clean<br> g d  然后就开始烦人的广告网站建设。。。。。。以后内容多了一定去掉点。。大家将就看<br>还是那句，如果文章好，点点上面的链接。邀请链接可以点<br><a href="https://propellerads.com/publishers/?ref_id=mNyG">邀请你试试，前提你要有一个站和域名</a><br>欢迎大家评论，我是初学者。请指教</p>]]></content>
       
       
       <categories>
