@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wswtnss.gitee.io/2022/02/26/hello-world/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/</loc>
+    <lastmod>2022-02-27</lastmod>
+  </url>
+  <url>
+    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/</loc>
+    <lastmod>2022-02-27</lastmod>
   </url>
   <url>
     <loc>https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/</loc>
@@ -27,10 +31,6 @@
   <url>
     <loc>https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/</loc>
     <lastmod>2022-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/</loc>
-    <lastmod>2022-02-23</lastmod>
   </url>
   <url>
     <loc>https://wswtnss.gitee.io/2022/02/22/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%BA%94%E8%AF%A5%E8%AF%B7%E4%B8%AA%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83/</loc>

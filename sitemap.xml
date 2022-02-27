@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wswtnss.gitee.io/2022/02/26/hello-world/</loc>
+    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/</loc>
+    
+    <lastmod>2022-02-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -68,15 +77,6 @@
     <loc>https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/</loc>
     
     <lastmod>2022-02-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wswtnss.gitee.io/2022/02/22/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(1)/</loc>
-    
-    <lastmod>2022-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
