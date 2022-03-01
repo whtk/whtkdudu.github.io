@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>大白话java(3)</title>
+      <link href="/2022/03/01/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(3)/"/>
+      <url>/2022/03/01/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(3)/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284113022&page=10&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>接上回：<br>工部现在制作plan  是从流派找具体人，或者更新项目，重整项目，进行流派适配管理等等。</p><p>当一个项目正在运行中，工部也需要时不时的问一问，你现在什么情况了，到哪一步了，还需要啥资源，出现了什么问题啊。话说，比如这是个半年的工程，6个月，按惯例，工部每一个月就派个人到地方，也许是南京也许是广州。去问问现在工程进展情况。话说每个项目都这么干需要多少人力物力财力。<br>朝廷工部这时候想了个办法，说这样吧，我把这些情况总结下，比如按照项目进度报备的，如，开始干了，干一半了，干完了等工程项目进度情况。 还有出错的情况，比如人死了，缺少材料，火灾水灾了等各种情况。总之，总结了若干种情况。对于每一种情况，对一个颜色，比如干一半了 紫色，缺少材料红色，遭灾了，紫色。等等。对于每种情况，需要工程执行方在相应的时刻，把对应颜色的纸条，绑在御用鸽子（皇家培养的。。每个项目都要申请一个）腿上，让鸽子报过来。有一个人得到鸽子上的信息后根据工程和颜色，比如哪哪个工程，什么颜色&#x3D;》什么情况  进行响应处理。比如正常流程的记录在案，缺少材料的反馈信息。</p><p>这么做岂不是很省事。</p><p>后来皇家培养鸽子的计划因皇帝以雇佣宠物和虐待动物的理由废除了。那工部说，我好久没派人去各地的项目那了。我已经把那份预算去掉了。你们看着办，该报进度报进度，该报问题报问题。反正我没钱。<br>那各个项目组一看，你不出人那我就出人把。结果出现了各种工程驻京办。驻京办的主要任务是接受工程地发来的信息，然后请求工部的对应处理。工部派了个人专门处理这个事情，原来各个颜色的信息，还保留，驻京办人员报来什么颜色的信息，就对应什么处理，处理结果如果有反馈，让各个 驻京办再反馈回去。<br>在大白话java(2)中，最后提到的代理公司。如果他可以除了代理各个流派的接任务，找具体人的过程，还可以向工部专人去报告各个任务的情况。这样还是不错的。</p><p>反正工部 懒得定时去问你了，你有啥问题来报我。。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>大白话java(2)</title>
       <link href="/2022/02/27/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/"/>
       <url>/2022/02/27/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/</url>
@@ -282,11 +307,11 @@
     
     
     <entry>
-      <title>hexo优化速度</title>
-      <link href="/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6/"/>
-      <url>/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6/</url>
+      <title>hexo优化速度--后序</title>
+      <link href="/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/"/>
+      <url>/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=764243924&bvid=BV1wr4y1k7mJ&cid=441452730&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>hexo建好以后，访问速度会比较慢这时候有几个方面的考虑<br>1、lookup dns的速度<br>2、加载的各种资源大小<br>3、js的延迟加载<br>4、图片的lazyload<br>5、选取cdn<br>6、更换发布github page的平台</p><span id="more"></span><p>1、这个目前来说除了试各种dns解析平台的解析速度，要不就花点钱让它解析快一点。这个直接决定你的firstByte的速度<br>，比如我这个网站，用腾讯的解析平台DNSPod，寻找dns的时间居然有600ms。。。直接阻塞了firstByte的时间。我也是<br>无语了想换个解析平台试试，没找到修改的地方。是不是需要花点钱? 有很多解析平台可以用。  </p><p>2、js css 和html的大小 ，这个是常规的压缩操作<br>现在最易上手，感觉还不错的是这个 hexo-all-minifier<br>以下命令安装<br>npm install hexo-all-minifier –save<br>具体配置是我拷贝的 忘了哪个博客了，大家自己百度下这个插件就行，用法差不多，就不献丑了。  </p><p>3，4其实就是延迟加载，这个也挺有用。<br>js 就是在系统不太重要，不影响布局的前提下，尤其是第三方<br>script开始标签里加个 defer 或者 async ，延迟加载<br>图片的意思也是一样。开启主题里的图片lazyload就好</p><p>5、选取cdn 分两种，整站的和文件的。整站的如果国内访问国外服务器（比如我这个）肯定是要有的，用的腾讯cdn<br>，各种资源的cdn hexo主题里都有现在这两种都试试也行。类似这样的<br>&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;lozad@1&#x2F;dist&#x2F;lozad.min.js<br>&#x2F;&#x2F;cdnjs.cloudflare.com&#x2F;ajax&#x2F;libs&#x2F;lozad.js&#x2F;1.14.0&#x2F;lozad.min.js<br>我在想国内访问的话其实用不到，因为我有腾讯cdn，但是国外访问国外可能会有用。不管怎么样把<br>对于一些国内访问不了的比如google github的资源，有cdn还是很好的。<br>有些朋友用github仓库当图床，用上面的链接进行加速。也挺好，具体用法很简单，自行查找吧。<br>还有字体的问题，如果能用加速的还是加个速好，加速好还是本地好？反正比从google下载好。</p><p>6、github page的发布平台很多，不一定就在它上面发布，大部分都支持github仓库的自动构建发布，非常方便。<br>你只需要源码推送到github就成了，平台自动的给你构建生成html文件。非常方便，我用的是vercel，还有类似的<br>大家可以多常试几个。试试速度。</p><p>最后，最烦恼的现在我是第一个。。发愁。找个dns都用600+ms，这是个问题。亟待解决。</p><p>有同样问题的同志们或者能给出建议的同志们，留言给我，谢谢</p><p>回头有几个优化平台可以介绍，下篇文章再说了。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=28905770&bvid=BV1ys411M7pk&cid=50121178&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>上次说了6点，其中我做了做记录，比较了下第六点<br>我用vercel自动发布部署的情况下，不用腾讯的cdn比用腾讯的cdn还要快，我觉得vercel自己也部署了些节点。<br>不管国内还是国外我测试都很快。原来lookup dns  ，fIBT需要600ms ，现在最多200ms，不是秒开，但是能忍受<br>。如果不是特别在意的，也就可以了，如果在意的话可以试试自己寻找cloudflare的快速节点。回头有时间再折腾，<br>还有我发现用了jsdelivr加速和不用，在vercel上区别不是很明显，用不用可以自己测试下f12</p><span id="more"></span><p>还是别直接用github发布了，最起码对中国国内不好。<br>注意：你需要把代码放到一个github的仓库里，而不是仅仅将public文件夹放进去。这需要你有一点git的知识。<br>其中注意如果你用git init 去在你项目文件夹里进行初始化之前，把themes里响应主题里的.git文件夹删掉，<br>避免出现git库嵌套麻烦。<br>剩下的就简单了<br>git add .<br>git commit “add first”</p><p>git branch -M main<br>git remote add origin <a href="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a>:xxxxxxxxx.git</p><p>等一会就ok了</p><p>从什么时候github默认是main了。。不是master了。<br>以后写完文章 直接把文章.md推送到github库里，等一下，让vercel编译完 ，就可以看到更新的网页文章了、</p><p>最后有几个好的 测试网站的平台<br>#1、Pingdom<br>这个测试我的主要是三个问题，<br>###1、说我没用gzip压缩。。<br>我不知道怎么改。。。。为啥啊 ，gzip难道vercel没做？不应该啊 github发布的时候也是这个问题。奇怪。<br>###2、说我资源过期标记没标记。<br>###3、说我请求太多，能合并的要合并。<br>###4、说我lookups dns 时间稍长 这个是个黄色的，不是太严重。我现在打开自己的已经很满意了，so，回头再说<br>#2、webpagetest<br>其实这个网站也就是把我们的f12内容截图了下，具体的可以试试。</p><p>好了 我要git add  commit push了。</p>]]></content>
       
       
       <categories>
@@ -307,11 +332,11 @@
     
     
     <entry>
-      <title>hexo优化速度--后序</title>
-      <link href="/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/"/>
-      <url>/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6--%E5%90%8E%E5%BA%8F/</url>
+      <title>hexo优化速度</title>
+      <link href="/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6/"/>
+      <url>/2022/02/17/hexo%E4%BC%98%E5%8C%96%E9%80%9F%E5%BA%A6/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=28905770&bvid=BV1ys411M7pk&cid=50121178&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>上次说了6点，其中我做了做记录，比较了下第六点<br>我用vercel自动发布部署的情况下，不用腾讯的cdn比用腾讯的cdn还要快，我觉得vercel自己也部署了些节点。<br>不管国内还是国外我测试都很快。原来lookup dns  ，fIBT需要600ms ，现在最多200ms，不是秒开，但是能忍受<br>。如果不是特别在意的，也就可以了，如果在意的话可以试试自己寻找cloudflare的快速节点。回头有时间再折腾，<br>还有我发现用了jsdelivr加速和不用，在vercel上区别不是很明显，用不用可以自己测试下f12</p><span id="more"></span><p>还是别直接用github发布了，最起码对中国国内不好。<br>注意：你需要把代码放到一个github的仓库里，而不是仅仅将public文件夹放进去。这需要你有一点git的知识。<br>其中注意如果你用git init 去在你项目文件夹里进行初始化之前，把themes里响应主题里的.git文件夹删掉，<br>避免出现git库嵌套麻烦。<br>剩下的就简单了<br>git add .<br>git commit “add first”</p><p>git branch -M main<br>git remote add origin <a href="mailto:&#x67;&#105;&#116;&#x40;&#103;&#105;&#116;&#x68;&#x75;&#x62;&#46;&#x63;&#x6f;&#109;">&#x67;&#105;&#116;&#x40;&#103;&#105;&#116;&#x68;&#x75;&#x62;&#46;&#x63;&#x6f;&#109;</a>:xxxxxxxxx.git</p><p>等一会就ok了</p><p>从什么时候github默认是main了。。不是master了。<br>以后写完文章 直接把文章.md推送到github库里，等一下，让vercel编译完 ，就可以看到更新的网页文章了、</p><p>最后有几个好的 测试网站的平台<br>#1、Pingdom<br>这个测试我的主要是三个问题，<br>###1、说我没用gzip压缩。。<br>我不知道怎么改。。。。为啥啊 ，gzip难道vercel没做？不应该啊 github发布的时候也是这个问题。奇怪。<br>###2、说我资源过期标记没标记。<br>###3、说我请求太多，能合并的要合并。<br>###4、说我lookups dns 时间稍长 这个是个黄色的，不是太严重。我现在打开自己的已经很满意了，so，回头再说<br>#2、webpagetest<br>其实这个网站也就是把我们的f12内容截图了下，具体的可以试试。</p><p>好了 我要git add  commit push了。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=764243924&bvid=BV1wr4y1k7mJ&cid=441452730&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>hexo建好以后，访问速度会比较慢这时候有几个方面的考虑<br>1、lookup dns的速度<br>2、加载的各种资源大小<br>3、js的延迟加载<br>4、图片的lazyload<br>5、选取cdn<br>6、更换发布github page的平台</p><span id="more"></span><p>1、这个目前来说除了试各种dns解析平台的解析速度，要不就花点钱让它解析快一点。这个直接决定你的firstByte的速度<br>，比如我这个网站，用腾讯的解析平台DNSPod，寻找dns的时间居然有600ms。。。直接阻塞了firstByte的时间。我也是<br>无语了想换个解析平台试试，没找到修改的地方。是不是需要花点钱? 有很多解析平台可以用。  </p><p>2、js css 和html的大小 ，这个是常规的压缩操作<br>现在最易上手，感觉还不错的是这个 hexo-all-minifier<br>以下命令安装<br>npm install hexo-all-minifier –save<br>具体配置是我拷贝的 忘了哪个博客了，大家自己百度下这个插件就行，用法差不多，就不献丑了。  </p><p>3，4其实就是延迟加载，这个也挺有用。<br>js 就是在系统不太重要，不影响布局的前提下，尤其是第三方<br>script开始标签里加个 defer 或者 async ，延迟加载<br>图片的意思也是一样。开启主题里的图片lazyload就好</p><p>5、选取cdn 分两种，整站的和文件的。整站的如果国内访问国外服务器（比如我这个）肯定是要有的，用的腾讯cdn<br>，各种资源的cdn hexo主题里都有现在这两种都试试也行。类似这样的<br>&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;lozad@1&#x2F;dist&#x2F;lozad.min.js<br>&#x2F;&#x2F;cdnjs.cloudflare.com&#x2F;ajax&#x2F;libs&#x2F;lozad.js&#x2F;1.14.0&#x2F;lozad.min.js<br>我在想国内访问的话其实用不到，因为我有腾讯cdn，但是国外访问国外可能会有用。不管怎么样把<br>对于一些国内访问不了的比如google github的资源，有cdn还是很好的。<br>有些朋友用github仓库当图床，用上面的链接进行加速。也挺好，具体用法很简单，自行查找吧。<br>还有字体的问题，如果能用加速的还是加个速好，加速好还是本地好？反正比从google下载好。</p><p>6、github page的发布平台很多，不一定就在它上面发布，大部分都支持github仓库的自动构建发布，非常方便。<br>你只需要源码推送到github就成了，平台自动的给你构建生成html文件。非常方便，我用的是vercel，还有类似的<br>大家可以多常试几个。试试速度。</p><p>最后，最烦恼的现在我是第一个。。发愁。找个dns都用600+ms，这是个问题。亟待解决。</p><p>有同样问题的同志们或者能给出建议的同志们，留言给我，谢谢</p><p>回头有几个优化平台可以介绍，下篇文章再说了。</p>]]></content>
       
       
       <categories>
