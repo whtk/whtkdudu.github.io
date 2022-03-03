@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>大白话java(3)</title>
+      <link href="/2022/03/01/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(3)/"/>
+      <url>/2022/03/01/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(3)/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284113022&page=10&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><p>接上回：<br>工部现在制作plan  是从流派找具体人，或者更新项目，重整项目，进行流派适配管理等等。</p><p>当一个项目正在运行中，工部也需要时不时的问一问，你现在什么情况了，到哪一步了，还需要啥资源，出现了什么问题啊。话说，比如这是个半年的工程，6个月，按惯例，工部每一个月就派个人到地方，也许是南京也许是广州。去问问现在工程进展情况。话说每个项目都这么干需要多少人力物力财力。<br>朝廷工部这时候想了个办法，说这样吧，我把这些情况总结下，比如按照项目进度报备的，如，开始干了，干一半了，干完了等工程项目进度情况。 还有出错的情况，比如人死了，缺少材料，火灾水灾了等各种情况。总之，总结了若干种情况。对于每一种情况，对一个颜色，比如干一半了 紫色，缺少材料红色，遭灾了，紫色。等等。对于每种情况，需要工程执行方在相应的时刻，把对应颜色的纸条，绑在御用鸽子（皇家培养的。。每个项目都要申请一个）腿上，让鸽子报过来。有一个人得到鸽子上的信息后根据工程和颜色，比如哪哪个工程，什么颜色&#x3D;》什么情况  进行响应处理。比如正常流程的记录在案，缺少材料的反馈信息。</p><p>这么做岂不是很省事。</p><p>后来皇家培养鸽子的计划因皇帝以雇佣宠物和虐待动物的理由废除了。那工部说，我好久没派人去各地的项目那了。我已经把那份预算去掉了。你们看着办，该报进度报进度，该报问题报问题。反正我没钱。<br>那各个项目组一看，你不出人那我就出人把。结果出现了各种工程驻京办。驻京办的主要任务是接受工程地发来的信息，然后请求工部的对应处理。工部派了个人专门处理这个事情，原来各个颜色的信息，还保留，驻京办人员报来什么颜色的信息，就对应什么处理，处理结果如果有反馈，让各个 驻京办再反馈回去。<br>在大白话java(2)中，最后提到的代理公司。如果他可以除了代理各个流派的接任务，找具体人的过程，还可以向工部专人去报告各个任务的情况。这样还是不错的。</p><p>反正工部 懒得定时去问你了，你有啥问题来报我。。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>大白话java(2)</title>
       <link href="/2022/02/27/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/"/>
       <url>/2022/02/27/%E5%A4%A7%E7%99%BD%E8%AF%9Djava(2)/</url>
@@ -257,7 +282,7 @@
       <link href="/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%9B%AE%E5%BD%95/"/>
       <url>/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E7%9B%AE%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284129112&page=51&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2>网络实验相关目录: </h2>  <div ><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%881%EF%BC%89%E6%8A%93%E5%8C%85%E5%AE%9E%E9%AA%8C/">网络实验（1）抓包实验</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/">网络实验（2）网络模拟器熟悉环境（ip, arp)</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%883%EF%BC%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">网络实验（3）网络模拟器-基础知识</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%884%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-ftp%E6%A8%A1%E6%8B%9F%EF%BC%88%E6%B2%A1%E5%A3%B0%E9%9F%B3%EF%BC%89/">网络实验（4）网络模拟器-ftp模拟（没声音）</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/">网络实验（5）思科模拟软件-vlan设置</a><br><a href="https://www.whtkdudu.com/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%886%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1/">网络实验（6）思科模拟软件-静态路由</a></div><h2>软件下载</h2><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/zV83wqmD63AGeUlbQDjYTWTwnTdCnugC/Wireshark3.2.2.zip">1、64位抓包软甲Wireshark3.2.2.zip</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/3xWGnoTn0UG5w8r6D549gTGhEOH8s1lX/PacketTracer70_32bit_setup.exe">2、思科网络模拟软件</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/c5RdzhXQ2xPiTEQnV5HmlLEsS8PkW7og/pkt.rar">3、实验用pkt包</a><br>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script> <div style=" position: relative; width: 100%; height: 0; padding-bottom: 75%;" class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=416178533&bvid=BV1BV411t73P&cid=284129112&page=51&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2>网络实验相关目录: </h2>  <div ><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%881%EF%BC%89%E6%8A%93%E5%8C%85%E5%AE%9E%E9%AA%8C/">网络实验（1）抓包实验</a><br><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%882%EF%BC%89%E7%86%9F%E6%82%89%E7%8E%AF%E5%A2%83%EF%BC%88ip%EF%BC%8Carp%EF%BC%89/">网络实验（2）网络模拟器熟悉环境（ip, arp)</a><br><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%883%EF%BC%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">网络实验（3）网络模拟器-基础知识</a><br><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%884%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-ftp%E6%A8%A1%E6%8B%9F%EF%BC%88%E6%B2%A1%E5%A3%B0%E9%9F%B3%EF%BC%89/">网络实验（4）网络模拟器-ftp模拟（没声音）</a><br><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%885%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-vlan%E8%AE%BE%E7%BD%AE/">网络实验（5）思科模拟软件-vlan设置</a><br><a href="https://wswtnss.gitee.io/2022/02/21/%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%EF%BC%886%EF%BC%89%E6%80%9D%E7%A7%91%E6%A8%A1%E6%8B%9F%E8%BD%AF%E4%BB%B6-%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1/">网络实验（6）思科模拟软件-静态路由</a></div><h2>软件下载</h2><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/zV83wqmD63AGeUlbQDjYTWTwnTdCnugC/Wireshark3.2.2.zip">1、64位抓包软甲Wireshark3.2.2.zip</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/3xWGnoTn0UG5w8r6D549gTGhEOH8s1lX/PacketTracer70_32bit_setup.exe">2、思科网络模拟软件</a><br><a href="https://lc-gluttony.s3.amazonaws.com/6zkqEON98ggK/c5RdzhXQ2xPiTEQnV5HmlLEsS8PkW7og/pkt.rar">3、实验用pkt包</a><br>]]></content>
       
       
       <categories>
